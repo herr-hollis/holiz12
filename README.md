@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @holiz12
+- 👋 Hi, I’m Sir Hollis Francis
 - 👀 I’m interested in Computational physics
 
 <!---
